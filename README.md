@@ -11,8 +11,9 @@ Model Serialization: The trained model and scaler are saved for later use in pre
 
 # Installation
 1. Clone the repository or download the project files:
-   git clone https://github.com/yourusername/fraud_detection_project.git
-   cd fraud_detection_project
+   [(https://github.com/ShivamMau/Credit-Card-Fraud-Project)
+   cd fraud_detection_project](https://github.com/ShivamMau/Credit-Card-Fraud-Project)
+   
 
 # Running the Project
 1. Running the Flask API
