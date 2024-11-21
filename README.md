@@ -1,1 +1,3 @@
 # Credit-Card-Fraud
+
+This project aims to develop a machine learning pipeline for detecting fraudulent credit card transactions. The dataset consists of labeled transactions, with a highly imbalanced class distribution (fraudulent vs. legitimate transactions). The solution involves preprocessing the data, applying feature engineering techniques, and training a logistic regression model. The trained model is then deployed via a Flask web application, allowing real-time predictions for new transactions. This end-to-end pipeline is packaged for easy deployment, including all necessary files for training, evaluation, and prediction
